@@ -7,7 +7,7 @@
 body {
     padding:0px;
     margin:0px;
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://cdn.discordapp.com/attachments/553992095879135294/700109717791571978/unknown.png") center center;
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),"/assets/images/maxresdefault.jpg" center center;
     background-size:cover;
     width:100vw;
     height:100vh;
